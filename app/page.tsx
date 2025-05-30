@@ -29,7 +29,7 @@ export default function Home() {
           <div className="relative">
             <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-blue-500 rounded-lg blur opacity-20"></div>
             <h1 className="relative text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-500">
-              ROCS - Robotics and Control Society
+              ROCS - Robotics and Computer Science
             </h1>
           </div>
           <p className="text-xl mb-8 max-w-2xl text-gray-700 dark:text-gray-300">
