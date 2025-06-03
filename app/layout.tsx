@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "ROCS - Robotics and Control Society",
-  description: "ROCS Robotik ve Kontrol Topluluğu resmi web sitesi",
+  description: "ROCS Robotik ve Bilgisayar Bilimleri Topluluğu resmi web sitesi",
 };
 
 export default function RootLayout({
