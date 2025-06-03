@@ -33,7 +33,7 @@ export default function Home() {
             </h1>
           </div>
           <p className="text-xl mb-8 max-w-2xl text-gray-700 dark:text-gray-300">
-            Geleceğin teknolojilerini bugünden şekillendiren, robotik ve kontrol sistemleri alanında öncü öğrenci topluluğu
+            Geleceğin teknolojilerini bugünden şekillendiren, robotik ve bilgisayar bilimleri alanında öncü öğrenci topluluğu
           </p>
           <div className="flex gap-4">
             <a
